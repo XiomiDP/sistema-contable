@@ -6,7 +6,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header d-flex align-items-center">
-                        <h4><?php echo e(trans('Agregar transferencia de Bodega')); ?></h4>
+                        <h4><?php echo e(trans('Agregar transferencia de Bodega1')); ?></h4>
                     </div>
                     <div class="card-body">
                         <p class="italic"><small><?php echo e(trans('Las etiquetas de campo marcadas con * son campos de entrada obligatorios')); ?>.</small></p>
